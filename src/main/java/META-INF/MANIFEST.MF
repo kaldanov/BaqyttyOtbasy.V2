@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: baliviya.com.github.bodistrict.telegrambot.TelegrambotApplic
+ ation
+

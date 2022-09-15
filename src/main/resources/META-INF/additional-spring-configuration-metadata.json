@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "table-schema",
+      "type": "java.lang.String",
+      "description": "Description for table-schema."
+  }
+] }
